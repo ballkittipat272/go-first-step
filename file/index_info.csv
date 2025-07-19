@@ -1,0 +1,21 @@
+Region,Exchange,Index,Currency
+North America,NYSE,S&P 500,USD
+North America,NASDAQ,NASDAQ Composite,USD
+Europe,LSE,FTSE 100,GBP
+Europe,Euronext,AEX,EUR
+Asia,TSE,Nikkei 225,JPY
+Asia,HKEX,Hang Seng Index,HKD
+Asia,SGX,Straits Times Index,SGD
+Asia,KRX,KOSPI,KRW
+Asia,SSE,Shanghai Composite,CNY
+Asia,BSE,SENSEX,INR
+Europe,FWB,DAX,EUR
+Europe,SIX,SMI,CHF
+Europe,BME,IBEX 35,EUR
+Oceania,ASX,ASX 200,AUD
+North America,TSX,S&P/TSX Composite,CAD
+South America,B3,Ibovespa,BRL
+Africa,JSE,FTSE/JSE Top 40,ZAR
+Middle East,TASE,TA-125,ILS
+Middle East,DFM,DFMGI,AED
+Europe,OMX,OMX Stockholm 30,SEK
