@@ -13,7 +13,7 @@ func process1(ch chan string, data string) {
 func main() {
 	fmt.Println("=== main started ===")
 
-	ch := make(chan string, 1)
+	ch := make(chan string)
 	go process1(ch, "data1")
 
 	msg := <-ch
